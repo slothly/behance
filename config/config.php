@@ -2,6 +2,6 @@
 
 return [
     'behance' => [
-        'clientId' => ''
+        'clientId' => 'VUsiPi7KDM3xCpaHLUkhpMVhtJLR5Hg4'
     ]
 ];
